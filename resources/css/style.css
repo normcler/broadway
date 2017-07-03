@@ -47,20 +47,10 @@ li {
 footer {
     text-align: left;
     background-color: dimgray;
-}
-
-h6 {
     font-size: 11px;
     color: white;
 }
 
-#navlist li {
-    display: inline;
-    list-style-type: none;
-    font-size: 23px;
-    color: white;
+.nav-btn {
+    font-size: 18px;
 }
-#navlist #copyrgt {
-    font-size: 11px;
-}
-
